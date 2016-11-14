@@ -7,7 +7,7 @@ Example of an IP list:
 
 IPlist.txt
 
-1.1.1.1\n
-2.2.2.2\n
-3.3.3.3\n
+1.1.1.1<br>
+2.2.2.2<br>
+3.3.3.3<br>
 4.4.4.4
