@@ -9,7 +9,7 @@ Scan IP ranges for FTP connections,<br>
 example:
 Angry IP scan http://angryip.org/download/#linux
 
-3.)
+2.)
 Export the active FTP servers to a list.
 Example of an IP list:
 
