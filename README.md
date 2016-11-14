@@ -1,4 +1,4 @@
-# FTP-world
+# mass-ftp-login.py
 
 This script will try to login to multiple FTP servers specified in an IP list.
 
