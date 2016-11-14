@@ -4,8 +4,7 @@ This script will try to login to multiple FTP servers specified in an IP list.
 
 
 # Usage:
-1.)
-
+1.) 
 Scan IP ranges for FTP connections,<br>
 example:
 Angry IP scan http://angryip.org/download/#linux
